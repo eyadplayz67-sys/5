@@ -1,0 +1,6 @@
+{
+  "name": "Egypt Pets",
+  "description": "A modern, responsive e-commerce web application for Egypt Pets, selling premium pet gadgets and accessories for cats and dogs across Egypt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
